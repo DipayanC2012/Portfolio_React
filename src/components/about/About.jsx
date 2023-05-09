@@ -24,7 +24,7 @@ const About = () => {
               <h5>Education</h5>
               <small>
                 <ul>
-                  <li>RV College Of Engineering, Bangalore
+                  <li>RV College of Engineering, Bangalore
                   <br></br>
                   <span className='year_of_graduation'>2020-2024</span></li>
                   

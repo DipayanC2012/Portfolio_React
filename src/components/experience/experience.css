@@ -1,6 +1,9 @@
 .experience__container {
   display: flex;
   gap: 32px;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
 }
 
 .experience__category {

@@ -8,7 +8,7 @@ const Experience = () => {
       <h5>Skills I have</h5>
       <h2>My Experience</h2>
       <div className='container experience__container'>
-        <div className='experience__frontend'>
+        <div className='experience__category'>
           <h3>Intermediate</h3>
           <div className='experience__content'>
             <article className='experience__details'>
@@ -20,7 +20,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>CSS, SASS</h4>
+                <span>CSS, SASS</span>
                 
               </div>
             </article>
@@ -48,7 +48,7 @@ const Experience = () => {
             </article>
           </div>
         </div>
-        <div className='experience_backend'>
+        <div className='experience__category'>
           <h3>Basic</h3>
           <div className='experience__content'>
             <article className='experience__details'>
@@ -88,7 +88,7 @@ const Experience = () => {
             </article>
           </div>
         </div>
-        <div className='experience_backend'>
+        <div className='experience__category'>
           <h3>Familiar with</h3>
           <div className='experience__content'>
             <article className='experience__details'>

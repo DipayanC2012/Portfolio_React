@@ -16,7 +16,7 @@
   border: 1px solid var(--color-primary-variant);
   cursor: default;
 }
-a .experience__category > h3 {
+.experience__category > h3 {
   text-align: center;
   color: var(--color-primary);
   margin-bottom: 2rem;

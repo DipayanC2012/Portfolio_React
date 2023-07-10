@@ -52,15 +52,14 @@
   }
 
   .experience__content {
-        display: flex;
-        flex-direction: column;
-        row-gap: 8px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
   }
 
   .experience__container {
     display: flex;
     gap: 32px;
-    
   }
 }
 

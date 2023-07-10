@@ -10,7 +10,7 @@ const Portfolio = () => {
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src='https://i.postimg.cc/0yhdFY8V/E-commerce.png' alt="text-utility website" />
+            <img src='https://i.postimg.cc/0yhdFY8V/E-commerce.png' alt="E-commerce website" />
             <h3>E-Commerce Website</h3>
             <div className="portfolio__item-cta">
               <a
@@ -21,7 +21,7 @@ const Portfolio = () => {
                 Github
               </a>
               <a
-                href="https://webecommerce-atoz.netlify.app/"
+                href="e-commerce-aish.netlify.app/"
                 className="btn btn-primary"
                 target="_blank"
               >
@@ -32,7 +32,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src='https://i.postimg.cc/MGkVdzD4/netflix.png' alt="News website" />
+            <img src='https://i.postimg.cc/MGkVdzD4/netflix.png' alt="Netflix clone website" />
             <h3>Netflix Website Clone</h3>
             <div className="portfolio__item-cta">
               <a
@@ -43,7 +43,7 @@ const Portfolio = () => {
                 Github
               </a>
               <a
-              href="https://willowy-toffee-8e687c.netlify.app/"
+              href="netflix-clone-aish.netlify.app/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -54,7 +54,29 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src='https://i.postimg.cc/j5b6dRnN/expense-tracker.png' alt="Real State" />
+            <img src='https://i.postimg.cc/43NF7hbh/image.png' alt="Expense Tracker" />
+            <h3>Expense Tracker Website</h3>
+            <div className="portfolio__item-cta">
+              <a
+                href="https://github.com/DipayanC2012/Recipe-FInder"
+                className="btn"
+                target="_blank"
+              >
+                Github
+              </a>
+              <a
+                href="https://recipefinder2012.netlify.app/"
+                className="btn btn-primary"
+                target="_blank"
+              >
+                Live Demo
+              </a>
+            </div>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src='https://i.postimg.cc/j5b6dRnN/expense-tracker.png' alt="Expense Tracker" />
             <h3>Expense Tracker Website</h3>
             <div className="portfolio__item-cta">
               <a

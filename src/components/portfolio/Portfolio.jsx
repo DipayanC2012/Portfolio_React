@@ -21,7 +21,7 @@ const Portfolio = () => {
                 Github
               </a>
               <a
-                href="e-commerce-aish.netlify.app/"
+                href="https://e-commerce-aish.netlify.app/"
                 className="btn btn-primary"
                 target="_blank"
               >
@@ -43,7 +43,7 @@ const Portfolio = () => {
                 Github
               </a>
               <a
-              href="netflix-clone-aish.netlify.app/"
+              href="https://netflix-clone-aish.netlify.app/"
               className="btn btn-primary"
               target="_blank"
             >

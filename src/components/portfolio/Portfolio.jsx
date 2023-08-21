@@ -54,7 +54,7 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src='https://i.postimg.cc/fTGyKvp9/wysa.png' alt="Netflix clone website" />
+            <img src='https://i.postimg.cc/fTGyKvp9/wysa.png' alt="Wysa" />
             <h3>Wysa Website</h3>
             <div className="portfolio__item-cta">
               <a
@@ -76,8 +76,8 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src='https://i.postimg.cc/43NF7hbh/image.png' alt="Expense Tracker" />
-            <h3>Expense Tracker Website</h3>
+            <img src='https://i.postimg.cc/43NF7hbh/image.png' alt="Recipe Finder" />
+            <h3>Recipe Finder</h3>
             <div className="portfolio__item-cta">
               <a
                 href="https://github.com/DipayanC2012/Recipe-FInder"

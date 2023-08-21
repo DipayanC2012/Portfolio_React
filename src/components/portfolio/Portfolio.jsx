@@ -54,6 +54,28 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
+            <img src='https://i.postimg.cc/fTGyKvp9/wysa.png' alt="Netflix clone website" />
+            <h3>Wysa Website</h3>
+            <div className="portfolio__item-cta">
+              <a
+                href="https://github.com/DipayanC2012/Wysa-Proj"
+                className="btn"
+                target="_blank"
+              >
+                Github
+              </a>
+              <a
+              href="https://wysaproj.netlify.app/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+            </div>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
             <img src='https://i.postimg.cc/43NF7hbh/image.png' alt="Expense Tracker" />
             <h3>Expense Tracker Website</h3>
             <div className="portfolio__item-cta">

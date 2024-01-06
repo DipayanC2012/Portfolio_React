@@ -43,7 +43,7 @@ const Portfolio = () => {
                 Github
               </a>
               <a
-              href="https://netflix-clone-aish.netlify.app/"
+              href="https://netflix-dip.netlify.app/"
               className="btn btn-primary"
               target="_blank"
             >
